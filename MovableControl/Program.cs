@@ -8,6 +8,7 @@ namespace MovableControl
     {
         /// <summary>
         /// The main entry point for the application.
+        /// test git extension
         /// </summary>
         [STAThread]
         static void Main()
